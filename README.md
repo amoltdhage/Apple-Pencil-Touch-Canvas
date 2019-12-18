@@ -5,7 +5,7 @@
 
 ![Image description](https://github.com/amoltdhage/Apple-Pencil-Touch-Canvas/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-12-18%20at%2021.53.32.png)
 
-
+![Image description](https://github.com/amoltdhage/Apple-Pencil-Touch-Canvas/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-12-18%20at%2022.05.46.png)
 
 
 # TouchCanvas: Using UITouch efficiently and effectively
